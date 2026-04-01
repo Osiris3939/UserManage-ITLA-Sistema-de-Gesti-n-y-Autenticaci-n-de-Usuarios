@@ -2,6 +2,8 @@
 
 Este proyecto es una aplicación de escritorio desarrollada en **Java** para la materia de **Programación 1** en el **ITLA**. El sistema permite gestionar el ciclo de vida completo de los usuarios (CRUD), integrando una interfaz gráfica intuitiva con persistencia de datos en MySQL.
 
+https://youtu.be/XzEuLkW4V88?si=DrtuPPRdTp5yLJpj
+
 ## 👤 Información del Desarrollador
 * **Nombre:** Franklyn Enmanuel Santana Rodriguez
 * **Matrícula:** [20252089]
