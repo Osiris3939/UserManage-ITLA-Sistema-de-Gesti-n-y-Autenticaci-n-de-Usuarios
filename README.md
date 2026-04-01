@@ -10,7 +10,9 @@ Este proyecto es una aplicación de escritorio desarrollada en **Java** para la 
 ---
 
 ## 🚀 Características del Sistema
-Siguiendo estrictamente el mandato de la Tarea 4, el sistema incluye:<img width="513" height="318" alt="Screenshot 2026-03-31 214516" src="https://github.com/user-attachments/assets/e5b12c0e-35f3-4de6-8dc2-1cfe4ae35ec3" />
+Siguiendo estrictamente el mandato de la Tarea 4, el sistema incluye:
+
+<img width="513" height="318" alt="Screenshot 2026-03-31 214516" src="https://github.com/user-attachments/assets/e5b12c0e-35f3-4de6-8dc2-1cfe4ae35ec3" />
 <img width="633" height="528" alt="Screenshot 2026-03-31 214525" src="https://github.com/user-attachments/assets/697d84eb-b064-459f-b9f4-3ba7bd6282cc" />
 <img width="1110" height="634" alt="Screenshot 2026-03-31 214617" src="https://github.com/user-attachments/assets/1112ca61-0be8-45ef-b5f4-634a19f778da" />
 <img width="1919" height="738" alt="Screenshot 2026-03-31 214718" src="https://github.com/user-attachments/assets/a725dcfc-77db-4da7-ba4d-bfead85f660a" />
